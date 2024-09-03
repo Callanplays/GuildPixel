@@ -1,0 +1,58 @@
+{
+    "guild": "Signet of the Fallen Heroes",
+    "descriptionGuild1": [
+        "an amazing guild",
+        "a popular guild",
+        "an engaging guild",
+        "an exciting guild",
+        "a fun guild",
+        "an excellent guild",
+        "an awesome guild",
+        "a fantastic guild",
+        "an active guild",
+        "a great guild",
+        "our amazing guild",
+        "our engaging guild",
+        "our exciting guild",
+        "our fun guild",
+        "our excellent guild",
+        "our awesome guild",
+        "our fantastic guild",
+        "our active guild",
+        "our great guild"
+    ],
+    "hook2": [
+        "Wanna join",
+        "Want to join",
+        "Come join",
+        "Is anyone interested in joining",
+        "You should join",
+        "Totally come join",
+        "We want you to join"
+    ],
+    "descriptionGuild2": [
+        "insane events",
+        "frequent giveaways",
+        "a question of the day",
+        "an active discord",
+        "a friendly community",
+        "a fun place to hang out",
+        "a place to meet new people",
+        "helpful members",
+        "skilled players",
+        "dungeon and kuudra parties",
+        "a bridge bot for chatting between discord and the guild"
+    ],
+    "hook": [
+        "Hey!",
+        "Whats up!",
+        "o/",
+        "Hello!",
+        "How u doin!",
+        "How yall doing!",
+        "Hey there!",
+        "Hi guys!",
+        "Hey guys!",
+        "Hi!"
+    ]
+}
